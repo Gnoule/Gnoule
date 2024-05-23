@@ -26,7 +26,7 @@
 
 ### 🎨 Hobbies
 - 🔭 Explorer l'univers
-- 🎶 Joué du piano sur Mars
+- 🎶 Jouer du piano sur Mars
 - 🏃‍♂️ Courir sur des astéroïdes
 
 Merci de visiter mon profil GitHub! 🛸
