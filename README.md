@@ -1,6 +1,6 @@
 # Ricco Mathéo 🚀
 
-👋 Bonjour! Je suis Ricco Mathéo, un développeur passionné du code et de l'espace.
+👋 Bonjour! Je suis Ricco Mathéo, un développeur passionné de code et de l'espace.
 
 📫 Contactez-moi:
 - Email: matheo.ricco@viacesi.com
