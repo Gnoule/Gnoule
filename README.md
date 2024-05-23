@@ -1,28 +1,32 @@
-# Ricco Mathéo
+# Ricco Mathéo 🚀
 
-👋 Bonjour! Je suis Ricco Mathéo,
+👋 Bonjour! Je suis Ricco Mathéo, un développeur passionné du code et de l'espace.
 
 📫 Contactez-moi:
 - Email: matheo.ricco@viacesi.com
-- LinkedIn: [https://www.linkedin.com/in/matheo-ricco](https://www.linkedin.com/in/math%C3%A9o-ricco-584486252/)
+- LinkedIn: [Matheo Ricco](https://www.linkedin.com/in/matheo-ricco)
 
-## 🚀 Compétences
+## 🌌 Dans l'univers du code
+
+### Compétences
 - **Langages**: Python, JavaScript, Php, C++, Asm
 - **Frameworks**: yii2
 - **Outils**: Git, Docker
 
-## 📈 Statistiques GitHub
+### Statistiques GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Gnoule&show_icons=true&theme=radical)
 
-## 📊 Streak Stats
+### Streak Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Gnoule&theme=radical)
 
-## 🎓 Certifications
+### Certifications
 - Étudiant au CESI école d'ingénieur de Montpellier en FISA A3 Informatique
 
-## 🎨 Hobbies
-- 🔬 Science
-- 🎵 Musique
-- 🏃 Course à pied
+## 🌠 Explorer de nouveaux horizons
 
-Merci de visiter mon profil GitHub!
+### Hobbies
+- 🔭 Explorer l'univers
+- 🎶 Joué du piano sur Mars
+- 🏃‍♂️ Courir sur des astéroïdes
+
+Merci de visiter mon profil GitHub! 🛸
