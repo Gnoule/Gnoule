@@ -5,6 +5,7 @@
 📫 Contactez-moi:
 - Email: matheo.ricco@viacesi.com
 - LinkedIn: [Matheo Ricco](https://www.linkedin.com/in/matheo-ricco)
+- LeetCode: [Mon profil LeetCode](https://leetcode.com/u/Gnoule/)
 
 ## 🌌 Dans l'univers du code
 
