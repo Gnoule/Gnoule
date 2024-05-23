@@ -1,16 +1,31 @@
-## Hi there 👋
+# Ricco Mathéo
 
-<!--
-**Gnoule/Gnoule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Bonjour! Je suis Ricco Mathéo, un développeur passionné.
 
-Here are some ideas to get you started:
+📫 Contactez-moi:
+- Email: matheo.ricco@viacesi.com
+- LinkedIn: [https://www.linkedin.com/in/matheo-ricco](https://www.linkedin.com/in/math%C3%A9o-ricco-584486252/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Compétences
+- **Langages**: Python, JavaScript, Php, C++, Asm
+- **Frameworks**: yii2
+- **Outils**: Git, Docker
+
+## 📈 Statistiques GitHub
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Gnoule&show_icons=true&theme=radical)
+
+## 📊 Graphique de contribution
+![Graphique de contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Gnoule&theme=react-dark)
+
+## 📊 Streak Stats
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Gnoule&theme=radical)
+
+## 🎓 Certifications
+- Étudiant au CESI école d'ingénieur de Montpellier en FISA A3 Informatique
+
+## 🎨 Hobbies
+- 🔬 Science
+- 🎵 Musique
+- 🏃 Course à pied
+
+Merci de visiter mon profil GitHub!
