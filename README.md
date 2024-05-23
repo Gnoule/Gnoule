@@ -1,6 +1,6 @@
 # Ricco Mathéo
 
-👋 Bonjour! Je suis Ricco Mathéo, un développeur passionné.
+👋 Bonjour! Je suis Ricco Mathéo,
 
 📫 Contactez-moi:
 - Email: matheo.ricco@viacesi.com
@@ -13,9 +13,6 @@
 
 ## 📈 Statistiques GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Gnoule&show_icons=true&theme=radical)
-
-## 📊 Graphique de contribution
-![Graphique de contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Gnoule&theme=react-dark)
 
 ## 📊 Streak Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Gnoule&theme=radical)
