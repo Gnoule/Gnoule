@@ -10,7 +10,7 @@
 ## 🌌 Dans l'univers du code
 
 ### 🚀 Compétences
-- **Langages**: Python, JavaScript, Php, C++, Asm
+- **Langages**: Python, JavaScript, Php, C++
 - **Frameworks**: yii2
 - **Outils**: Git, Docker
 
