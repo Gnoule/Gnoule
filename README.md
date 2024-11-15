@@ -3,7 +3,7 @@
 👋 Bonjour! Je suis Ricco Mathéo, un développeur passionné de code et de l'espace.
 
 📫 Contactez-moi:
-- Email: matheo.ricco@viacesi.com
+- Email: matheo.ricco@viacesi.fr
 - LinkedIn: [Matheo Ricco](https://www.linkedin.com/in/matheo-ricco)
 - LeetCode: [Mon profil LeetCode](https://leetcode.com/u/Gnoule/)
 
