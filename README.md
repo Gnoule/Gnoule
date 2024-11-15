@@ -21,7 +21,7 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Gnoule&theme=radical)
 
 ### 🎓 Certifications
-- Étudiant au CESI école d'ingénieur de Montpellier en FISA A3 Informatique
+- Étudiant au CESI école d'ingénieur de Montpellier en FISA A4 Informatique
 
 ## 🌠 Explorer de nouveaux horizons
 
